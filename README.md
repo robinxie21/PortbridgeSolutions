@@ -1,9 +1,10 @@
-![Uploading welcome.png…]()
+<img width="2730" height="1535" alt="welcome" src="https://github.com/user-attachments/assets/878b41db-a197-4d13-82c2-2bba5decfacd" />
+
 # 👋Laboratory cardiac electrophysiological software Toolkit  
 Welcome to the Laboratory cardiac electrophysiological Software Toolkit repository! This collection houses a suite of practical software tools and detailed documentation that We have developed for electrophysiology research.  
 ## ✨ Overview  
 This repository provides a comprehensive software solution for electrophysiology researchers, clinicians, and biomedical engineers. It covers the entire workflow from data acquisition and signal processing to in-depth analysis. All tools have been validated in real-world projects and are designed to enhance the efficiency and accuracy of electrophysiological studies.  
-![Uploading 20260113_1.gif…]()
+![20260113_1](https://github.com/user-attachments/assets/acf40d33-e96a-4135-8e45-a5d66a0fff62)
 
 ## 🚀 Features
  
