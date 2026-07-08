@@ -28,4 +28,4 @@ Contact us for requesting a demo/consulting/customized medical software developm
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit Issues and Pull Requests (PRs). If you have feature requests, find bugs, or wish to share your experience, please contact us via GitHub Issues.
 ## 📜 License
-This is open-source documentation，commercial software and customized software are available. Contact us for enterprise deployment.
+This is open-source documentation, commercial software and customized software are available. 
