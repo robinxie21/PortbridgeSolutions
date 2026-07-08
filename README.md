@@ -1,5 +1,5 @@
 
-<img width="1500" height="1456" alt="welcome-wooden-hanging-sign-se-7630" src="https://github.com/user-attachments/assets/44c84d2d-d46f-4ded-b2c2-8fc558f37f25" />
+<img width="1536" height="1024" alt="e22a5f98-5e95-4b18-80cc-bd39a3cd9a7c" src="https://github.com/user-attachments/assets/78a24546-e95e-47f6-a7cb-1e66b62b1f2d" />
 
 
 # 👋Integrated Cardiac Electrophysiology Software Platform
