@@ -35,4 +35,4 @@ Customization
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit Issues and Pull Requests (PRs). If you have feature requests, find bugs, or wish to share your experience, please contact us via GitHub Issues.
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSEfile for details.
+This is open-source documentation，commercial software and customized software are available. Contact us for enterprise deployment.
