@@ -1,4 +1,6 @@
-<img width="2730" height="1535" alt="welcome" src="https://github.com/user-attachments/assets/878b41db-a197-4d13-82c2-2bba5decfacd" />
+
+<img width="1500" height="1456" alt="welcome-wooden-hanging-sign-se-7630" src="https://github.com/user-attachments/assets/44c84d2d-d46f-4ded-b2c2-8fc558f37f25" />
+
 
 # 👋Laboratory cardiac electrophysiological software Toolkit  
 Welcome to the Laboratory cardiac electrophysiological Software Toolkit repository! This collection houses a suite of practical software tools and detailed documentation that We have developed for electrophysiology research.  
