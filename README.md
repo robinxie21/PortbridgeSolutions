@@ -23,7 +23,7 @@ The following is a running demo of one of the software:
 
 ## 🏁 Getting Started
 
-Contact us for requesting a demo/consulting/customized medical software development: Robinxie21@gmail.com
+My company is mainly for medical software development, especially for graphical user interface (GUI), signal processing, AI, and hospital management. Contact us for requesting a demo/consulting/customized medical software development: Robinxie21@gmail.com
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit Issues and Pull Requests (PRs). If you have feature requests, find bugs, or wish to share your experience, please contact us via GitHub Issues.
