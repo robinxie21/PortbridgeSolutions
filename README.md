@@ -10,7 +10,7 @@ This repository provides a comprehensive software solution for electrophysiology
 
 ## 🚀 Features
  
- Software  | Link  | Introduction
+ Modules  | Link  | Introduction
  ---- | ----- | ------  
  Laboratory electrophysiological system  | [Here](https://github.com/robinxie21/PortbridgeSolutions/tree/main/Instruction/chm/Laboratory%20electrophysiological%20system) |  Cardiac electrophysiological optical mapping software is a specialized system for analyzing cardiac electrical activity. It works by using fluorescent dyes loaded into heart tissue or cells. A high-speed camera then records changes in fluorescence, which reflect variations in membrane voltage or ion concentrations (like calcium), allowing for the simultaneous recording of action potentials and calcium transients  
  EasyAPT Software  | [Here](https://github.com/robinxie21/PortbridgeSolutions/tree/main/Instruction/chm/EasyAPT%20Software) | This software is a no-code platform designed for rapid algorithm validation and iteration. It features an intuitive, drag-and-drop modular interface that allows users to freely combine algorithmic components and manually define data flow directions. By eliminating the need for coding, it significantly streamlines the algorithm assembly process. This enables researchers and engineers to quickly build, adjust, and test the impact of different algorithm combinations and procedures on outcomes, thereby accelerating the pace of algorithm exploration and optimization.
@@ -23,14 +23,7 @@ The following is a running demo of one of the software:
 
 ## 🏁 Getting Started
 
-Request a Demo
-
-Contact Us
-
-Consulting
-
-Customization
-
+Contact us for requesting a demo/consulting/customized medical software development: Robinxie21@gmail.com
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit Issues and Pull Requests (PRs). If you have feature requests, find bugs, or wish to share your experience, please contact us via GitHub Issues.
