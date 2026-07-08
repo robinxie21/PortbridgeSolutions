@@ -2,8 +2,8 @@
 <img width="1500" height="1456" alt="welcome-wooden-hanging-sign-se-7630" src="https://github.com/user-attachments/assets/44c84d2d-d46f-4ded-b2c2-8fc558f37f25" />
 
 
-# 👋Laboratory cardiac electrophysiological software Toolkit  
-Welcome to the Laboratory cardiac electrophysiological Software Toolkit repository! This collection houses a suite of practical software tools and detailed documentation that We have developed for electrophysiology research.  
+# 👋Integrated Cardiac Electrophysiology Software Platform
+Welcome to the professional software platform for cardiac electrophysiology research! This collection houses a suite of practical software tools and detailed documentation that We have developed for electrophysiology research.  
 ## ✨ Overview  
 This repository provides a comprehensive software solution for electrophysiology researchers, clinicians, and biomedical engineers. It covers the entire workflow from data acquisition and signal processing to in-depth analysis. All tools have been validated in real-world projects and are designed to enhance the efficiency and accuracy of electrophysiological studies.  
 ![20260113_2](https://github.com/user-attachments/assets/e5129506-3120-40b9-9a1e-f129f96087c5)
@@ -22,7 +22,16 @@ The following is a running demo of one of the software:
  ![20260113_3](https://github.com/user-attachments/assets/4bc88227-41c3-4907-b91b-ee8663ce553f)
 
 ## 🏁 Getting Started
-The software operation manual is currently provided. Come and read it. If you are interested, please give it a star!
+
+Request a Demo
+
+Contact Us
+
+Consulting
+
+Customization
+
+
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit Issues and Pull Requests (PRs). If you have feature requests, find bugs, or wish to share your experience, please contact us via GitHub Issues.
 ## 📜 License
