@@ -3,7 +3,7 @@
 
 
 # 👋Integrated Cardiac Electrophysiology Software Platform
-Welcome to the professional software platform for cardiac electrophysiology research! This collection houses a suite of practical software tools and detailed documentation that We have developed for electrophysiology research.  
+Welcome to the demo of professional software platform for cardiac electrophysiology research! This collection houses a suite of practical software tools and detailed documentation that we have developed for electrophysiology research.  
 ## ✨ Overview  
 This repository provides a comprehensive software solution for electrophysiology researchers, clinicians, and biomedical engineers. It covers the entire workflow from data acquisition and signal processing to in-depth analysis. All tools have been validated in real-world projects and are designed to enhance the efficiency and accuracy of electrophysiological studies.  
 ![20260113_2](https://github.com/user-attachments/assets/e5129506-3120-40b9-9a1e-f129f96087c5)
